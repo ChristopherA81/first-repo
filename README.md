@@ -1,5 +1,5 @@
 # first-repo
 ## First ##
 _italics_
-![chris](./chrispic.jpg)
+![chris](chrispic.jpg)
 #### Chris ####
